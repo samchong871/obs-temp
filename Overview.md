@@ -26,4 +26,4 @@ Transformed Labourforce Survey (TLFS)
 
 LCF
 - Living Cost and Food survey
-- Build capability aorund this that can be reused by any other
+- Build capability around this that can be reused by any other
