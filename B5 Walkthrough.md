@@ -1,6 +1,6 @@
 ---
-date created: Tuesday 06-10-2026 | 10:43
-date modified: Tuesday 06-10-2026 | 10:43
+Created at: Tuesday 06-10-2026 – 10:43
+Modified at: Thursday 08-10-2026 – 16:14
 ---
 Audio (voice memo) starts 10:43ish (look at time on participants video screen)
 @TOBI

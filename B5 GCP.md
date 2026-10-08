@@ -1,3 +1,7 @@
+---
+Created at: Tuesday 06-10-2026 – 11:38
+Modified at: Thursday 08-10-2026 – 14:14
+---
 ## High-level structure
 GCP project per environment, sandbox
 
