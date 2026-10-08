@@ -1,7 +1,9 @@
 ---
 tags:
-  - Blaise
   - background
+  - Blaise
+Created at: Thursday 17-09-2026 – 11:47
+Modified at: Thursday 08-10-2026 – 14:28
 ---
 Blaise concerned with Social Surveys
 - i.e. ones that ask general public to gather data

@@ -1,9 +1,11 @@
 ---
 tags:
+  - cloud
   - GCP
   - learning
   - technical
-  - cloud
+Created at: Friday 25-09-2026 – 11:47
+Modified at: Thursday 08-10-2026 – 14:24
 ---
 
 u1

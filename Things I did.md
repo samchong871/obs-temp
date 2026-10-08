@@ -1,3 +1,7 @@
+---
+Created at: Friday 18-09-2026 – 16:00
+Modified at: Thursday 08-10-2026 – 14:27
+---
 
 Set up WSL
 - Talk to Tech Desk to enable virtualisation in BIOS

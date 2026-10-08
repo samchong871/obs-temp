@@ -4,6 +4,8 @@ tags:
   - GCP
   - learning
   - technical
+Created at: Friday 25-09-2026 – 13:25
+Modified at: Thursday 08-10-2026 – 14:24
 ---
 
 student-03-dbb7f5a865aa@qwiklabs.net

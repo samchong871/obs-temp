@@ -1,14 +1,16 @@
 ---
 tags:
   - Blaise
-  - technical
   - demo_example
+  - technical
+Created at: Thursday 24-09-2026 – 10:38
+Modified at: Thursday 08-10-2026 – 14:26
 ---
 https://github.com/ONSdigital/blaise-questionnaire-point-in-time-restore.git
 https://officefornationalstatistics.atlassian.net/wiki/x/I4AmH
 BLAIS5-4963
 
-
+![[pitr_sidra_dev_board.pdf]]
 
 Data delivery service for stuff like questionnaires run on a scheduled basis
 - Usually every day moved from Blaise to Data Delivery

@@ -1,9 +1,11 @@
 ---
 tags:
   - cloud
-  - GCP
   - docs
+  - GCP
   - technical
+Created at: Thursday 24-09-2026 – 17:06
+Modified at: Thursday 08-10-2026 – 14:24
 ---
 Welcome to Google Cloud Shell, a tool for managing resources hosted on Google Cloud Platform!
 The machine comes pre-installed with the Google Cloud SDK and other popular developer tools.

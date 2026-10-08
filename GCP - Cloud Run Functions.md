@@ -1,9 +1,11 @@
 ---
 tags:
   - cloud
-  - technical
   - GCP
   - learning
+  - technical
+Created at: Friday 25-09-2026 – 16:05
+Modified at: Thursday 08-10-2026 – 14:23
 ---
 [Cloud Run](https://docs.cloud.google.com/run/docs/overview/what-is-cloud-run)
 ## Cloud Run functions

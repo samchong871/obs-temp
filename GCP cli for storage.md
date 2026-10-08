@@ -1,9 +1,11 @@
 ---
 tags:
-  - technical
-  - learning
-  - GCP
   - cloud
+  - GCP
+  - learning
+  - technical
+Created at: Thursday 24-09-2026 – 16:39
+Modified at: Thursday 08-10-2026 – 14:27
 ---
 ### gcloud
 [`gcloud`CLI overview](https://docs.cloud.google.com/sdk/gcloud)
